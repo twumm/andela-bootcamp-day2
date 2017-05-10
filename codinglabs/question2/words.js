@@ -15,8 +15,8 @@ function words(sentence){
    }
    else {
       obj[sentenceArray[i]] = 1;
-   } 
+   }
   
-}
+  }
 return obj;
 }
