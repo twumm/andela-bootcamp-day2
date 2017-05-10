@@ -23,3 +23,7 @@ function Car(name, model, type){
     this.numOfWheels = 4;
   }
 }
+
+Car.prototype.drive = function(){
+  return "77 km/h";
+};
