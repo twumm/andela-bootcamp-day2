@@ -17,12 +17,9 @@ function Car(name, model, type){
   }
   if (type === 'trailer'){
     this.numOfWheels = 8;
+    this.speed = "0 km/h";
   }
   else {
     this.numOfWheels = 4;
   }
-  
-}
-  function drive(speed){
-  this.speed = speed;
 }
