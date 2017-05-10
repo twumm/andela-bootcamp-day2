@@ -1,0 +1,22 @@
+{
+  "name": "andela-bootcamp-day2",
+  "version": "1.0.0",
+  "description": "api to pull data from a weather website",
+  "main": "apiPull.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twumm/andela-bootcamp-day2.git"
+  },
+  "author": "martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twumm/andela-bootcamp-day2/issues"
+  },
+  "homepage": "https://github.com/twumm/andela-bootcamp-day2#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
